@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kumaresankp21.github.io/react-deploy-github/static/css/main.dc4d6ff2.css",
+    "main.js": "/kumaresankp21.github.io/react-deploy-github/static/js/main.2198b217.js",
+    "index.html": "/kumaresankp21.github.io/react-deploy-github/index.html",
+    "main.dc4d6ff2.css.map": "/kumaresankp21.github.io/react-deploy-github/static/css/main.dc4d6ff2.css.map",
+    "main.2198b217.js.map": "/kumaresankp21.github.io/react-deploy-github/static/js/main.2198b217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.2198b217.js"
+  ]
+}
